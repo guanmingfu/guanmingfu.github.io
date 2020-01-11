@@ -58,3 +58,10 @@ category-all-page {
   .category-all-page .category-list-child {
     padding-left: 10px;
   }
+  
+
+/*评论框美化*/
+.v .vwrap .vedit{padding-top:0}.v .vwrap .vheader{width: 80%;bottom:0;position: absolute;background: #f7f7f7;}
+.v .vbtn.vsubmit{background: #90EE90;}
+.vedit{background: #f7f7f7;}
+/*评论框美化结束*/
