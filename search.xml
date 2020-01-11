@@ -5,6 +5,10 @@
     <url>/2020/01/09/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/</url>
     <content><![CDATA[<h1 id="我是大标题"><a href="#我是大标题" class="headerlink" title="我是大标题"></a>我是大标题</h1><h2 id="我是中标题"><a href="#我是中标题" class="headerlink" title="我是中标题"></a>我是中标题</h2><h3 id="我是小标题"><a href="#我是小标题" class="headerlink" title="我是小标题"></a>我是小标题</h3><p>我是一段话</p>
 ]]></content>
+      <categories>
+        <category>Linux</category>
+        <category>学习</category>
+      </categories>
       <tags>
         <tag>随便</tag>
         <tag>写写</tag>
@@ -29,5 +33,9 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
+      <categories>
+        <category>Hello</category>
+        <category>World</category>
+      </categories>
   </entry>
 </search>
